@@ -1,13 +1,13 @@
 # Site settings
-title: Ying's Blog
+title: Big Data and Deep Learning Trends
 highlighter: false
-email: your-email@domain.com
+email: ying.zhao@quantumii.com
 description: > # 
-  This is my blog!
+  Big Data and Deep Learning Trends
 baseurl: "/yingblog" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.quantumii.com" # the base hostname & protocol for your site
+twitter_username: yzhao95014
+github_username:  yzhao95014
 
 # Build settings
 markdown: kramdown
