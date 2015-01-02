@@ -13,6 +13,8 @@ Hello this is my first post.
 
 #Header 1
 
+可以写中文吗？
+
 ##Header 2
 
 ###Header 3
