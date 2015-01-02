@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first post"
+title:  "Happy New Year"
 date:   2015-1-1
 categories: posts
 ---
