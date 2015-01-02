@@ -3,7 +3,6 @@ title:
 highlighter: false
 email: ying.zhao@quantumii.com
 description: > # 
-  Big Data and Deep Learning Trends
 baseurl: "/yingblog" # the subpath of your site, e.g. /blog/
 url: "http://www.quantumii.com" # the base hostname & protocol for your site
 twitter_username: yzhao95014
