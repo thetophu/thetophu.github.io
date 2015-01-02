@@ -12,6 +12,8 @@ Hello this is my first post.
 *Italicize*
 
 #Header 1
+
 ##Header 2
+
 ###Header 3
 
