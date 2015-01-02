@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Start your first business in US
+We help students to start their first business in US
 
 1. Income
 2. Tax
