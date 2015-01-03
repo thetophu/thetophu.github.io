@@ -4,8 +4,8 @@ title: Services
 permalink: /services/
 ---
 
-1. Provide authoritative data sciences guide
-2. Provide authentic guide of American experience
-3. Help register a US company
-4. Help manage cash flow, tax and debt
+1. Help register a US company
+2. Help set up a US website for the company
+3. Help manage cash flow, tax and debt for the company
+
 

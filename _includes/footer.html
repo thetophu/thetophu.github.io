@@ -27,6 +27,16 @@
           </a>
          
          {% endif %}
+	{% if site.sponsor_1 %}       
+         <a href="{{ site.sponsor_1 }}">
+             <img class="icon--images hover-fade" src="{{ "/images/cascade.jpg" | prepend: site.baseurl }}">        
+         </a>        
+         {% endif %}
+	{% if site.sponsor_2 %}       
+         <a href="{{ site.sponsor_2 }}">
+             <img class="icon--images hover-fade" src="{{ "/images/quantumii.jpg" | prepend: site.baseurl }}">        
+         </a>        
+         {% endif %}
        </ul>
    </div>
 
