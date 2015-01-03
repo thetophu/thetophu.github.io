@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "How Big Data Will Transform Our Economy And Our Lives In 2015"
 date:   2015-1-2
