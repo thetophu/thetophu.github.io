@@ -3,8 +3,8 @@ title:
 highlighter: false
 email: ying.zhao@quantumii.com
 description: > # 
-baseurl: "/yingblog" # the subpath of your site, e.g. /blog/
-url: "http://www.quantumii.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.thetophu.com" # the base hostname & protocol for your site
 twitter_username: yzhao95014
 facebook_username: pages/Quantum-Intelligence-Inc/117560491604386
 github_username:  yzhao95014
