@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome"
-date：   2015-1-1
+date:  2015-1-1
 categories: posts
 ---
 
