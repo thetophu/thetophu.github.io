@@ -5,7 +5,7 @@ date:   2015-1-3
 categories: posts
 ---
 
-Source: http://techcrunch.com/2015/01/02/the-year-of-big-data-is-upon-us
+Source:[http://techcrunch.com/2015/01/02/the-year-of-big-data-is-upon-us] (http://techcrunch.com/2015/01/02/the-year-of-big-data-is-upon-us)
 
 
 伟大的丹麦物理学家玻尔曾经指出：“预测是非常困难的，尤其是如果它是关于未来。”特别是在技术不断变化的世界，今天的大胆预测，可被证明明天的历史错误。但是，超前的思维有关的广泛的技术和市场的发展趋势是一个有用的练习对于我们这些从事与企业家和管理人员正在构建下一个伟大公司的合作业务。
