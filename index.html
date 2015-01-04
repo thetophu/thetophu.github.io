@@ -16,7 +16,18 @@ layout: default
         </h2>
       </li>
     {% endfor %}
+    
   </ul>
+
+<h1>Albums</h1>
+
+  {% for album in site.music limit:1 %}
+    <li>
+      <img src="{{ album.thumbnail-path }}" alt="{{ album.title }}"/>
+      <a href="{{ album.url }}">{{ album.title }}</a>
+      <p>{{ album.short-description }}</p>
+    </li>
+  {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

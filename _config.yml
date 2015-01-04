@@ -10,3 +10,7 @@ sponsor_1: http://www.ccleanenergy.com
 sponsor_2: http://www.quantumii.com
 # Build settings
 markdown: kramdown
+
+collections:
+  music:
+    output: true
