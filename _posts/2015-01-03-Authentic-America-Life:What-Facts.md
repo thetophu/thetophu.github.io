@@ -5,7 +5,7 @@ date:   2015-1-3
 categories: posts
 ---
 
-Source:[This link](http://www.quora.com/What-facts-about-the-United-States-do-foreigners-not-believe-until-they-come-to-America/answer/Aniruddh-Chaturvedi)
+Source:[http://www.quora.com/What-facts-about-the-United-States-do-foreigners-not-believe-until-they-come-to-America/answer/Aniruddh-Chaturvedi](http://www.quora.com/What-facts-about-the-United-States-do-foreigners-not-believe-until-they-come-to-America/answer/Aniruddh-Chaturvedi)
 
 ##没有人谈论的成绩在这里。
 
