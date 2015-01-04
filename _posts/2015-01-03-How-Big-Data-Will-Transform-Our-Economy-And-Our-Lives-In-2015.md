@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "How Big Data Will Transform Our Economy And Our Lives In 2015"
 date:   2015-1-3
@@ -28,7 +28,7 @@ Source: http://techcrunch.com/2015/01/02/the-year-of-big-data-is-upon-us
 
 甚至在不经意间 - 但是当算法侵犯人们的隐私，他们的生活方式的选择和自己的健康，习惯根据他们的种族，性别或年龄做出决定会发生什么？我们的学校，企业和公共机构都对隐私，公平和反歧视的规则，与政府执法的逆止器。将隐私和消费者保护跟上的实现大数据的快速移动的世界，尤其是随着人们越来越意识到自己的隐私和公民自由潜在的侵占？
 
-##开放政府数据 (Ope)n Government Data)
+##开放政府数据 (Open Government Data)
 
 预计政府将继续使政府数据更加“液体”和有用的 - 和企业把数据以创造性的使用。公共部门，私营公司在其产品和服务使用的数据的一个重要来源。
 
