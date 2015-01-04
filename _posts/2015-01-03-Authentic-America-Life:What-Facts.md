@@ -5,11 +5,11 @@ date:   2015-1-3
 categories: posts
 ---
 
-Source:[] (http://www.quora.com/What-facts-about-the-United-States-do-foreigners-not-believe-until-they-come-to-America/answer/Aniruddh-Chaturvedi)
+Source:[This link](http://www.quora.com/What-facts-about-the-United-States-do-foreigners-not-believe-until-they-come-to-America/answer/Aniruddh-Chaturvedi)
 
 ##没有人谈论的成绩在这里。
-    
-    每个人都对自己的成就和失败高度保密。在任何领域的人的表现是孤独的表现。相比于印度，人们炫耀他们的财富和分享其他人的成就，这是不同的。
+
+每个人都对自己的成就和失败高度保密。在任何领域的人的表现是孤独的表现。相比于印度，人们炫耀他们的财富和分享其他人的成就，这是不同的。
     
 ##  零售经验远不乐趣/不错
 
