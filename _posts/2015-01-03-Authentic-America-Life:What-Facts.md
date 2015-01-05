@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What facts about the United States do foreigners not believe until they come to America?"
+title:  "Authentic American Life: What Facts About the United States?"
 date:   2015-1-3
 categories: posts
 ---
