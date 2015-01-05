@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Sciences: How Big Data Will Transform Our Economy And Our Lives In 2015"
+title:  "Data Sciences: Big Data Will Transform Our Economy And Lives In 2015"
 date:   2015-1-3
 categories: posts
 ---
