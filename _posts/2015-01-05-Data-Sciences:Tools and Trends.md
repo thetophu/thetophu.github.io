@@ -1,6 +1,9 @@
-
-
-
+---
+layout: post
+title:  "Data Sciences: Tools and Trends"
+date:   2015-1-5
+categories: posts
+---
 
 Source: https://www.linkedin.com/groups/Preview-our-first-2015-digest-4298680.S.5957297922432327682
 
