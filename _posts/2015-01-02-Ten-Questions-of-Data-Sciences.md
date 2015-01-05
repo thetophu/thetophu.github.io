@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Sciences Ten Questions"
+title:  "Data Sciences: Ten Questions"
 date:   2015-1-2
 categories: posts
 ---
